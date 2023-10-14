@@ -1,0 +1,14 @@
+body {
+  margin: unset;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-color: #f8f8f8;
+  height: 100vh;
+  padding: 2rem 4rem;
+}
